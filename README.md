@@ -22,7 +22,7 @@ A modern, offline-capable news reader built with React Native and Expo, featurin
 
 ## 📱 Screenshots
 
-*Screenshots will be added after the app is built and tested*
+![Home Feed](<Screenshot 2025-07-16 at 9.50.42 AM.png>) ![Home Feed](<Screenshot 2025-07-16 at 9.51.11 AM.png>) ![Saved](<Screenshot 2025-07-16 at 9.51.28 AM.png>) ![Settings](<Screenshot 2025-07-16 at 9.51.40 AM.png>)
 
 ## 🛠 Installation & Setup
 
