@@ -1,20 +1,20 @@
 import { Ionicons } from '@expo/vector-icons';
-import React, { useState } from 'react';
+import { useState } from 'react';
 import {
-    Alert,
-    SafeAreaView,
-    ScrollView,
-    StatusBar,
-    StyleSheet,
-    Switch,
-    Text,
-    TouchableOpacity,
-    View,
+  Alert,
+  SafeAreaView,
+  ScrollView,
+  StatusBar,
+  StyleSheet,
+  Switch,
+  Text,
+  TouchableOpacity,
+  View,
 } from 'react-native';
 import Animated, {
-    useAnimatedStyle,
-    useSharedValue,
-    withSpring,
+  useAnimatedStyle,
+  useSharedValue,
+  withSpring,
 } from 'react-native-reanimated';
 
 import { useOffline } from '../../hooks/useOffline';
@@ -306,12 +306,12 @@ export const SettingsScreen = () => {
             showChevron={false}
           />
           
-          <SettingItem
+          {/* <SettingItem
             icon="heart-outline"
             title="Made with ❤️"
             subtitle="Built with React Native & Expo"
             showChevron={false}
-          />
+          /> */}
         </View>
       </ScrollView>
     </SafeAreaView>
