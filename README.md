@@ -24,8 +24,8 @@ A modern, offline-capable news reader built with React Native and Expo, featurin
 
 | Name                 | GitHub            | Email                   |
 | -------------------- | ----------------- | ----------------------- |
-| M Ajay kumar reddy   | @ajaykumarreddym  | ajayreddymr07@gmail.com |
-| G Sateesh            | @sateesh23        | sateeshgavara10@gmail.com|
+| M Ajay kumar reddy   | [@ajaykumarreddym](https://github.com/ajaykumarreddym)  | ajayreddymr07@gmail.com |
+| G Sateesh            | [@sateesh23](https://github.com/sateesh23)        | sateeshgavara10@gmail.com|
 
 
 ## 📱 Screenshots
